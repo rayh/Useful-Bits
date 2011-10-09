@@ -26,15 +26,15 @@
 //  (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 //  SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-#import <UsefulBits/UIControl+Blocks.h>
-#import <UsefulBits/UIApplication+Orientation.h>
-#import <UsefulBits/UIBarButtonItem+Buttons.h>
-#import <UsefulBits/UIGestureRecognizer+Blocks.h>
-#import <UsefulBits/UIImage+Size.h>
-#import <UsefulBits/UIImage+Tint.h>
-#import <UsefulBits/UINavigationBar+Background.h>
-#import <UsefulBits/UIView+Decorators.h>
-#import <UsefulBits/UIView+Hierarchy.h>
-#import <UsefulBits/UIView+Positioning.h>
-#import <UsefulBits/UIView+Size.h>
-#import <UsefulBits/UIView+Actions.h>
+#import "UIControl+Blocks.h"
+#import "UIApplication+Orientation.h"
+#import "UIBarButtonItem+Buttons.h"
+#import "UIGestureRecognizer+Blocks.h"
+#import "UIImage+Size.h"
+#import "UIImage+Tint.h"
+#import "UINavigationBar+Background.h"
+#import "UIView+Decorators.h"
+#import "UIView+Hierarchy.h"
+#import "UIView+Positioning.h"
+#import "UIView+Size.h"
+#import "UIView+Actions.h"

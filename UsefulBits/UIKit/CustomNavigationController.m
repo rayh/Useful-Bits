@@ -28,7 +28,7 @@
 
 #import "CustomNavigationController.h"
 
-#import <UsefulBits/Foundation+Extensions.h>
+#import "Foundation+Extensions.h"
 
 @implementation CustomNavigationController
 

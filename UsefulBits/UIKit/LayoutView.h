@@ -28,7 +28,7 @@
 
 #import <UIKit/UIKit.h>
 
-#import <UsefulBits/LayoutManager.h>
+#import "LayoutManager.h"
 
 @interface LayoutView : UIView
 {

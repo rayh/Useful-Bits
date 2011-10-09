@@ -28,8 +28,8 @@
 
 #import "CustomNavigationBar.h"
 
-#import <UsefulBits/UIView+Size.h>
-#import <UsefulBits/UIView+Decorators.h>
+#import "UIView+Size.h"
+#import "UIView+Decorators.h"
 
 @implementation CustomNavigationBar
 

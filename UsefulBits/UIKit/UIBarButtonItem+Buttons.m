@@ -28,7 +28,7 @@
 
 #import "UIBarButtonItem+Buttons.h"
 
-#import <UsefulBits/UIControl+Blocks.h>
+#import "UIControl+Blocks.h"
 
 @implementation UIBarButtonItem (Buttons)
 

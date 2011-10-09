@@ -26,15 +26,15 @@
   //  (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
   //  SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
-#import <UsefulBits/UBMacros.h>
-#import <UsefulBits/NSArray+Blocks.h>
-#import <UsefulBits/NSSet+Blocks.h>
-#import <UsefulBits/NSSet+Intersection.h>
-#import <UsefulBits/NSLock+Blocks.h>
-#import <UsefulBits/NSArray+Access.h>
-#import <UsefulBits/NSObject+Blocks.h>
-#import <UsefulBits/NSDictionary+URLParams.h>
-#import <UsefulBits/NSObject+Creation.h>
-#import <UsefulBits/NSOperationQueue+WorkerQueue.h>
-#import <UsefulBits/NSString+URLEncode.h>
-#import <UsefulBits/NSURL+Parameters.h>
+#import "UBMacros.h"
+#import "NSArray+Blocks.h"
+#import "NSSet+Blocks.h"
+#import "NSSet+Intersection.h"
+#import "NSLock+Blocks.h"
+#import "NSArray+Access.h"
+#import "NSObject+Blocks.h"
+#import "NSDictionary+URLParams.h"
+#import "NSObject+Creation.h"
+#import "NSOperationQueue+WorkerQueue.h"
+#import "NSString+URLEncode.h"
+#import "NSURL+Parameters.h"

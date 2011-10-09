@@ -28,7 +28,7 @@
 
 #import "UIImage+Tint.h"
 
-#import <UsefulBits/UIImage+Size.h>
+#import "UIImage+Size.h"
 
 @implementation UIImage (Tint)
 
